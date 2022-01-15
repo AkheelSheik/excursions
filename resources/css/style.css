@@ -5,9 +5,10 @@ body {
 }
 
 h1 {
-    font-size: 50 px;
+    font-size: 50px;
     font-weight: normal;
     color: white;
+    text-align: center;
 }
 
 h2 {
@@ -18,9 +19,14 @@ h2 {
 
 p {
     color:grey;
-    font-size: 21 px;
+    font-size: 21px;
 }
 [href] {
     color: aquamarine;
     font-size: 16px;
+}
+
+footer {
+    text-align: right;
+    color:gray
 }
